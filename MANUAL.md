@@ -11,6 +11,9 @@ A small, reproducible detection lab. It generates labelled traffic with injected
 ## 3. Demo
 Capture to record: the test run and the metrics output.
 
+![Real test run, captured 21 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 21 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** Python 3.
 
