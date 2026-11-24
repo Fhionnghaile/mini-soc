@@ -4,7 +4,7 @@
 > **Detection measured by whether it actually detects — precision and recall, not alert volume.**  
 > **Result:** 3 suites; precision = recall = 1.0 on the labelled corpus.  
 > **Reproduce:** `pytest -q`  
-> ![CI](https://github.com/fhionnghaile/mini-soc/actions/workflows/ci.yml/badge.svg)
+> ![CI](https://github.com/fhionnghaile/mini-soc/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/mini-soc/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/mini-soc)
 >
 > **What this is worth:** Shows detections that catch real attacks without drowning the team in false positives — the thing every SOC struggles with.
 
