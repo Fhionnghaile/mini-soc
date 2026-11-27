@@ -2,7 +2,7 @@
 
 <!-- at-a-glance -->
 > **Detection measured by whether it actually detects — precision and recall, not alert volume.**  
-> **Result:** 3 suites; precision = recall = 1.0 on the labelled corpus.  
+> **Result:** 3 tests; precision = recall = 1.0 on the labelled corpus.  
 > **Reproduce:** `pytest -q`  
 > ![CI](https://github.com/fhionnghaile/mini-soc/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/mini-soc/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/mini-soc)
 >
